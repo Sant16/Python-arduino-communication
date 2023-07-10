@@ -1,3 +1,5 @@
+# its the same arduino code to send a cadena 
+
 import serial
 
 # Configurar puerto serial
